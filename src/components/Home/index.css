@@ -1,0 +1,31 @@
+.home-bg {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/home-lg-bg.png');
+  background-size: cover;
+  height: 100vh;
+}
+.find-the {
+  font-family: 'Roboto';
+  font-size: 45px;
+  color: #ffffff;
+  font-weight: 800;
+}
+.millions {
+  font-family: 'Roboto';
+  font-size: 28px;
+  color: #ffffff;
+  font-weight: 500;
+}
+.find-jobs {
+  height: 50px;
+  width: 120px;
+  background-color: #4f46e5;
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #ffffff;
+  border-radius: 5px;
+  border-width: 0px;
+}
+.find-mill-cont {
+  margin-top: 100px;
+  margin-left: 40px;
+}

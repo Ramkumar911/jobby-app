@@ -1,0 +1,35 @@
+.header-nav {
+  background-color: #272727;
+  height: 15vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 40px;
+}
+.header-log-size {
+  height: 40px;
+  width: 100px;
+}
+.nav-item {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #ffffff;
+  font-weight: 500;
+  margin-right: 10px;
+}
+.nav-items-cont {
+  display: flex;
+}
+.log-out-but {
+  height: 30px;
+  width: 90px;
+  background-color: #4f46e5;
+  font-family: 'Roboto';
+  font-size: 12px;
+  color: #ffffff;
+  border-radius: 5px;
+  border-width: 0px;
+}
+.link {
+  text-decoration: none;
+}

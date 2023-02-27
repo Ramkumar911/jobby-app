@@ -1,0 +1,35 @@
+.company-img-size {
+  height: 50px;
+  width: 50px;
+}
+.li-job-data-c {
+  width: 90%;
+  border: 1px solid #000000;
+  margin-bottom: 20px;
+  padding: 20px;
+  border-radius: 10px;
+}
+.star-rating-cont {
+  display: flex;
+  align-items: center;
+}
+.logo-title-rating-cont {
+  display: flex;
+  align-items: center;
+}
+.location-icon-cont {
+  display: flex;
+  align-items: center;
+}
+.location-empolymenttype-cont {
+  display: flex;
+  align-items: center;
+}
+.all-types-cont {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+.link-l {
+  text-decoration: none;
+}

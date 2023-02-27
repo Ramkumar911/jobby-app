@@ -1,0 +1,55 @@
+.main-bg-log {
+  background-color: #000000;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.log-bg {
+  background-color: #272727;
+  height: 400px;
+  width: 500px;
+  border-radius: 10px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  padding-top: 40px;
+}
+.web-log-img-size {
+  height: 40px;
+  width: 150px;
+  align-self: center;
+  margin-bottom: 50px;
+}
+.input-label-user-cont {
+  margin-bottom: 20px;
+  padding-left: 60px;
+}
+.label-name {
+  font-family: 'Roboto';
+  font-size: 13px;
+  font-weight: 700;
+  color: #ffffff;
+}
+.input-name {
+  height: 30px;
+  width: 300px;
+  padding-left: 10px;
+  border: 1px solid #b6c5ff;
+  background-color: transparent;
+}
+.login-but {
+  height: 30px;
+  width: 300px;
+  background-color: #4f46e5;
+  margin-left: 60px;
+  border-width: 0px;
+  color: #ffffff;
+  font-weight: 600;
+}
+.error-msg {
+  margin-left: 60px;
+  font-family: 'Roboto';
+  font-size: 12px;
+  color: #ff0b37;
+}

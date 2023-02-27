@@ -1,0 +1,32 @@
+.job-detail-comp-cont {
+  width: 90%;
+  border: 1px solid #000000;
+  padding: 20px;
+}
+.job-all-main-cont {
+  padding: 20px;
+}
+.ul-skills-list {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.company-cont {
+  display: flex;
+}
+.similar-jobs-list-ul {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.anchor-cont {
+  display: flex;
+  justify-content: space-between;
+}
+.an {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+}
